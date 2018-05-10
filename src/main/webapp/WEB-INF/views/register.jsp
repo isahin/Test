@@ -71,22 +71,20 @@
 
 							<div class="form-group">
 								<label for="exampleInputEmail1">User Name:</label> <input
-									type="text" class="form-control" id="adi" name="name"
-									placeholder="UserName">
+									type="text" class="form-control" id="adi" name="name">
 							</div>
 
 							<div class="form-group">
 								<label for="exampleInputEmail1">E-mail:</label> <input
-									type="email" class="form-control" id="mail" name="email"
-									placeholder="Mail Adresi">
+									type="email" class="form-control" id="mail" name="email">
 							</div>
 							<div class="form-group">
 								<label for="exampleInputEmail1">Password:</label> <input
-									type="password" class="form-control" id="sifre" name="password"
-									placeholder="Şifreniz">
+									type="password" class="form-control" id="sifre" name="password">
 							</div>
+						
 							<p align="right">
-								<button type="submit" id="btnEkle" class="btn btn-primary">Gönder</button>
+								<button type="submit" id="btnEkle" class="btn btn-primary">Create User</button>
 							</p>
 
 						</div>

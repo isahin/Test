@@ -54,7 +54,7 @@
 
 
 						<p align="center">
-							<a href='<s:url value="/register"></s:url>'>Register Page</a>
+							<a href='<s:url value="/registeropen"></s:url>'>Register Page</a>
 						</p>
 
 

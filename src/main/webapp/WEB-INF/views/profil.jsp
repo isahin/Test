@@ -43,16 +43,6 @@
 				<c:if test="${not empty hata}">
 
 
-					<div class="alert alert-danger alert-dismissible fade show"
-						role="alert">
-						<strong>Hata</strong> ${ hata }
-						<button type="button" class="close" data-dismiss="alert"
-							aria-label="Close">
-							<span aria-hidden="true">&times;</span>
-						</button>
-					</div>
-
-
 
 				</c:if>
 
@@ -61,9 +51,6 @@
 					<div class="card">
 						<div class="card-header" align="left">Profile Giriş Yapıldı</div>
 						<div class="card-body">
-
-
-
 
 
 							<a href='<s:url value="/cikis"></s:url>'>Çıkış Yap</a>
